@@ -1,10 +1,10 @@
 # maestro
 
-maestro orchestration framework for office workloads
+maestro orchestration framework 
 
 # License
 
-maestro orchestration framework for office workloads
+maestro orchestration framework
 
 Copyright (C) 2024 QB Networks
 
